@@ -1,0 +1,8 @@
+input {
+  margin-bottom: 1rem;
+}
+.text-input {
+  width: 60%;
+  font-size: 30px;
+  padding: 5px 10px;
+}
